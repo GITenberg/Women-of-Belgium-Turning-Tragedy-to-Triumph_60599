@@ -1,5 +1,8 @@
 _repo: Women-of-Belgium-Turning-Tragedy-to-Triumph_60599
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60599-h/images/cover.jpg
 creator:
   author:
     agent_name: Kellogg, Charlotte
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38714
     wikipedia: https://en.wikipedia.org/wiki/Charlotte_Kellogg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60599#Women-of-Belgium-Turning-Tragedy-to-Triumph
 gutenberg_issued: '2019-10-30'
 gutenberg_type: Text
 identifiers:
